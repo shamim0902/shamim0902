@@ -11,7 +11,7 @@
 					}
 				}
 				.container {
-					font-family:sans-serif,
+					font-family: sans-serif,
 					color: white;
 					background: #fff;
 					padding: 4px 16px;
@@ -60,28 +60,28 @@
 				<h1>🧠 Projects 🧑‍💻</h1>
 				<div class="project">
 					<div class="single-project" style="">
-						<a href="https://github.com/hasanuzzamanbe?tab=repositories&amp;q=&amp;type=&amp;language=php&amp;sort=stargazers">
+						<a href="https://github.com/shamim0902?tab=repositories&amp;q=&amp;type=&amp;language=php&amp;sort=stargazers">
 							<h3>🔵 WordPress / PHP</h3>
 						</a>
 						<p>I create a variety of WordPress plugins, some of which are available in public repositories.
-							Check the WordPress Profile for the latest activity; link on the profile section.
+							Check the WordPress Profile for the latest activity; link in the profile section.
 						</p>
 					</div>
 					<div class="single-project" style="">
-						<a href="https://github.com/hasanuzzamanbe?tab=repositories&amp;q=&amp;type=source&amp;language=javascript&amp;sort=">
+						<a href="https://github.com/shamim0902?tab=repositories&amp;q=&amp;type=source&amp;language=javascript&amp;sort=">
 							<h3>🟡 JavaScript</h3>
 						</a>
-						<p>I am a javascript enthusiast and use it to create various applications. You may check out some open-source
+						<p>I am a JavaScript enthusiast and use it to create various applications. You may check out some open-source
 						JS projects from the repository section! Just filter them out.</p>
 					</div>
 					<div class="single-project" style="">
-						<a href="https://github.com/hasanuzzamanbe?tab=repositories&amp;q=&amp;type=source&amp;language=vue&amp;sort=">
+						<a href="https://github.com/shamim0902?tab=repositories&amp;q=&amp;type=source&amp;language=vue&amp;sort=">
 							<h3>🟢 Vue.js</h3>
 						</a>
-						<p>I also enjoyed writing programs with React and Vue.js. When I was just starting, I did a few stand-alone vue projects which are public.</p>
+						<p>I also enjoyed writing programs with React and Vue.js. When I was just starting, I did a few stand-alone Vue projects, which are public.</p>
 					</div>
 					<div class="single-project" style="">
-						<a href="https://github.com/hasanuzzamanbe?tab=repositories&amp;q=&amp;type=public&amp;language=&amp;sort=stargazers">
+						<a href="https://github.com/shamim0902?tab=repositories&amp;q=&amp;type=public&amp;language=&amp;sort=stargazers">
 							<h3>🚘 Others</h3>
 						</a>
 						<p>I enjoy making new things utilizing various programming languages as a programming enthusiast. Here, you can filter through all of the public repository.</p>
